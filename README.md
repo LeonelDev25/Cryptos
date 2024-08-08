@@ -1,0 +1,3 @@
+/* Es un proyecto que arme estudiando el curso de javascript full stack
+It is a project that I put together studying the full stack javascript course 
+*/
